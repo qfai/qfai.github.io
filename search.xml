@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[what to do]]></title>
+    <url>%2F2017%2F06%2F13%2Fwhat-to-do%2F</url>
+    <content type="text"><![CDATA[想要做 leetcode opengl gpgpu cnn(online course standford machine learning and deep learning) data competition? 其实是看了别人的博客觉得很酷炫才决定做一下的，hexo真的蛮简单的。 也有看别人做的东西，觉得好棒啊，大神做的系统啊。一个实验室不同组别的可以差这么多啊。感觉别人都很厉害。之前的人也是，去了中科院但我觉得并没有浙大好然而各种百度实习，毕业师兄师姐都是bat什么的。反观我感觉什么也做不出来。 最近很迷茫吧，到底要做什么？短期目标倒是很明确，7.2号的日语，然后日刷leetcode。只看算法的话，现在开始应该也还可以。但是，最终是要做什么呢？微软亚研院定义自己是领先了世界10-15年的，做不到领先那么多也要起码站在前面吧？虽然说专攻算法本身也很难了。但是觉得机器学习，图形学，视觉，总有一个自己也要做些研究吧。有一个可以说是了解了些尖端科技的东西。只做一个调包侠一点用都没有。github也是啥也没有。 看了数媒的答辩之后觉得学习unity并没什么作用，是不是该在gpgpu上学习也感到了迷茫。图形学又可能面临找工作难，VTK源码太大架构太复杂很难看懂。。当然因为自己懂所以觉得技术很Low也很正常。 研究生呢，时间不长，但是想做的事情很多，想要健身学琴变成更好的自己，想要旅游想要wwoof，还一定要一份好的工作，希望这个领域也有所成就。有些人在这段时间里参与博士的项目，有些人作比赛，有些人实习，有些人在老板公司打工，没有说那个好，只是该早点明白自己要做什么，以及怎么做。 是不是该对自己自信一点呢。。]]></content>
+      <categories>
+        <category>Thought</category>
+      </categories>
+      <tags>
+        <tag>Thought</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[README]]></title>
     <url>%2F2017%2F06%2F13%2FREADME%2F</url>
     <content type="text"><![CDATA[Welcome to MY PagesWhat to doI want to share something like leetcode job-oriented urls knowledges update resume code(monte carlo, zbuffer) vtk project opengl mesh cuda helpfully if I could update it frequently.]]></content>
